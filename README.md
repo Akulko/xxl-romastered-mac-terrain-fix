@@ -6,15 +6,11 @@ I tested this on build 0.34, on an M2 Mac, launching from Steam like normal.
 
 ## Screenshots
 
-Normandy with both fixes applied. The slope, the ice cave and the slide all have ground again, in the remaster look and in the original one.
+Normandy with both fixes applied, the slope and the slide have ground again.
 
-![Normandy slope, remaster graphics](screenshots/normandy-slope-remaster.webp)
+<img src="screenshots/normandy-slope-remaster.webp" width="640" alt="Normandy slope, remaster graphics">
 
-![Normandy ice cave, remaster graphics](screenshots/normandy-ice-cave-remaster.webp)
-
-![Normandy ice cave, original graphics](screenshots/normandy-ice-cave-original.webp)
-
-![Normandy slide, remaster graphics](screenshots/normandy-slide-remaster.webp)
+<img src="screenshots/normandy-slide-remaster.webp" width="640" alt="Normandy slide, remaster graphics">
 
 ## Before you start
 
