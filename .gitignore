@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+# never commit game files or backups
+*.bak
+*.orig
+*.gen
+*.app
